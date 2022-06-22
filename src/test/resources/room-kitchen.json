@@ -1,0 +1,29 @@
+{
+  "room": "Kitchen",
+  "things": [
+    "Table",
+    "Fridge",
+    "Microwave"
+  ],
+  "needMoreThings": true,
+  "numberOfMicrowaves": 2,
+  "cutlery": {
+    "spoons": 10,
+    "forks": 15,
+    "knives": 20
+  },
+  "shelves": [
+    {
+      "name": "First",
+      "numbersOfСup": 3
+    },
+    {
+      "name": "Second",
+      "numbersOfСup": 5
+    },
+    {
+      "name": "Third",
+      "numbersOfСup": 7
+    }
+  ]
+}
